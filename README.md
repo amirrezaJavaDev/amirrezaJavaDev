@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2 style="border:none">⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="#">Opss nothing</a>.</li>
 <li>🧐 Learning about <strong>Cloud computing</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
@@ -11,7 +11,7 @@
 <li>📙 Check out my <a href="#">resume</a>.</li>
 </ul>
 
----
+
 ### 🧰 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
