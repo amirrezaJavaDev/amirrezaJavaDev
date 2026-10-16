@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2 style="border:none;">⚡️ A Few Quick Facts</h2>
-<ul>
+<ul style="border:none;">
 <li>🔭 I’m currently working on <a href="#">Opss nothing</a>.</li>
 <li>🧐 Learning about <strong>Cloud computing</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="#">Github</a>.</li>
