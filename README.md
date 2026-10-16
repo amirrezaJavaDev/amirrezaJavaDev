@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2 style="border:none">⚡️ A Few Quick Facts</h2>
+<h2 style="border:none;">⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="#">Opss nothing</a>.</li>
 <li>🧐 Learning about <strong>Cloud computing</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
@@ -28,10 +28,10 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" />
+<img align="left" alt="nginx" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/>
+<img align="left" alt="gcp" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
+<img align="left" alt="Docker" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
 
 <br>
 
